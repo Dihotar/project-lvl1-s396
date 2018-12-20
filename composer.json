@@ -2,6 +2,7 @@ i
 {
     "name": "kick/brain-games",
     "type": "project",
-    "bin": "brain-games",
+    "bin": ["bin/brain-games"],
     "require": {}
 }
+
