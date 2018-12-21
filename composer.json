@@ -1,6 +1,8 @@
 
 {
     "name": "kick/brain-games",
+    "description": "Mind game",
+    "keywords": ["games", "quiz"],
     "type": "project",
     "bin": ["bin/brain-games"],
     "require": {}
